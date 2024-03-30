@@ -2,7 +2,7 @@
 
 Blender addon for fast setup and rendering for 8 angle reference.
 
-![](https://64.media.tumblr.com/7abcc7274202bdb11953d96d98f4d406/83e863063512373e-de/s2048x3072/06d9cb4b5a044407970d9600bd1db126c6495326.pnj)
+![](./images/sample.png)
 
 ## How to Use
 
